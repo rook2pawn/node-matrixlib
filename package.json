@@ -2,16 +2,13 @@
   "author": "David Wee <rook2pawn@gmail.com> (http://rook2pawn.com)",
   "name": "matrixlib",
   "description": "Adds matrix support and routines",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/rook2pawn/node-matrixlib",
   "repository": {
     "type": "git",
     "url": "git://github.com/rook2pawn/node-matrixlib.git"
   },
   "main": "lib/index.js",
-  "engines": {
-    "node": "~v0.4.9"
-  },
   "dependencies": {},
   "devDependencies": {}
 }
