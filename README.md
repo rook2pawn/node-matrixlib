@@ -25,3 +25,7 @@ Example
 	// 3x3 identity matrix
 	var mlib = require('matrixlib');
 	var myIdentityMatrix = mlib.identity(3);
+
+.copy(matrix) 
+-------------
+Returns a copy of a matrix.
