@@ -29,3 +29,8 @@ Example
 .copy(matrix) 
 -------------
 Returns a copy of a matrix.
+
+.equals(a,b)
+------------
+Tests for equality between matrix a and b.
+
